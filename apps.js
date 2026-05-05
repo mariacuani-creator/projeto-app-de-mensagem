@@ -1,5 +1,4 @@
-
-//cria array 0 1 2
+document.querySelector("#msg").textContent="oi";
 
 let frases = ["F1", "F2", "F3"];
 let frasesCopiada = [...frase];
